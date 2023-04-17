@@ -2,6 +2,25 @@
   <img align="center" src="https://capsule-render.vercel.app/api?type=slice&color=265cff&fontColor=f7f9ff&text=Sleep%20Ice%20Eat%20Code%20Live%20Repeat&animation=fadeIn&fontSize=25&fontAlign=79&rotate=8&fontAlignY=40"/>
 </header>
 <h1>Creative <del>Climber</del> Coder</h1>
+
+```yaml
+location: Toronto, Ontario
+professional-passions:
+  [
+    "Front End",
+    "Design",
+    "UX/UI",
+    "React",
+  ]
+personal-passions: 
+  [
+    "Self Optimization",
+    "Bouldering / Sport Climbing",
+    "Picking up heavy things and putting them back down",
+    "Sci Fi books & movies",
+  ]
+```
+
 <div>
   <h2>Currently Learning</h2>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
@@ -46,7 +65,7 @@
 
 
 
-
+<h2>Github Stats</h2>
 <a href="https://github.com/JCPenne/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=f7f9ff&icon_color=265cff&ring_color=265cff&text_color=f7f9ff&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions&theme=transparent" />
 </a>
