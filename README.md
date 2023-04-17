@@ -77,5 +77,5 @@ personal-passions:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=0b2471&text_color=265cff&icon_color=0b2471&ring_color=0b2471&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions&theme=transparent" height=200/>
 </a>
 <a href="https://github.com/JCPenne/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&text_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" height=200/>
 </a>
