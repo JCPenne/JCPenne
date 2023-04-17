@@ -67,15 +67,15 @@ personal-passions:
 
 <h2>Github Stats</h2>
 <a href="https://github.com/JCPenne/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=f7f9ff&icon_color=265cff&ring_color=265cff&text_color=f7f9ff&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=f7f9ff&icon_color=265cff&ring_color=265cff&text_color=f7f9ff&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions&theme=transparent" height=200 />
 </a>
 <a href="https://github.com/JCpenne/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=f7f9ff&text_color=f7f9ff&border_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=f7f9ff&text_color=f7f9ff&border_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" height=200 />
 </a>
 
 <a href="https://github.com/JCPenne/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=0b2471&text_color=265cff&icon_color=0b2471&ring_color=0b2471&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions" height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=0b2471&text_color=265cff&icon_color=0b2471&ring_color=0b2471&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions&theme=transparent" height=200/>
 </a>
 <a href="https://github.com/JCPenne/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&custom_title=Languages%20I%20Love" height=200/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" height=200/>
 </a>
