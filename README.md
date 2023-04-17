@@ -10,14 +10,14 @@ professional-passions:
     "Front End",
     "Design",
     "UX/UI",
-    "React",
+    "React"
   ]
 personal-passions: 
   [
     "Self Optimization",
     "Bouldering / Sport Climbing",
     "Picking up heavy things and putting them back down",
-    "Sci Fi books & movies",
+    "Sci Fi books & movies"
   ]
 ```
 
