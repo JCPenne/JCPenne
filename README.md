@@ -7,5 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=f7f9ff&text_color=f7f9ff&border_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" />
 </a>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=0b2471&text_color=265cff&icon_color=0b2471&ring_color=0b2471&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Most Loved Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&custom_title=Languages%20I%20Love)](https://github.com/JCPenne/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/JCPenne/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JCPenne&title_color=0b2471&text_color=265cff&icon_color=0b2471&ring_color=0b2471&border_color=265cff&show_icons=true&custom_title=My%20Humble%20Contributions"/>
+</a>
+<a href="https://github.com/JCPenne/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&custom_title=Languages%20I%20Love"/>
+</a>
