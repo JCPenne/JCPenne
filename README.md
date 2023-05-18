@@ -1,26 +1,30 @@
 <header>
-  <img align="center" src="https://capsule-render.vercel.app/api?type=slice&color=265cff&fontColor=f7f9ff&text=Sleep%20Ice%20Eat%20Code%20Live%20Repeat&animation=fadeIn&fontSize=25&fontAlign=79&rotate=8&fontAlignY=40"/>
+  <img align="center" src="./Header.png"/>
 </header>
-<h1>Creative <del>Climber</del> Coder</h1>
 
 ```yaml
-location: Toronto, Ontario
+location: Toronto
 professional-passions:
   [
     "Front End",
     "Design",
     "UX/UI",
-    "React"
+    "Animation",
+    "Interactivity",
+    "React",
   ]
 personal-passions: 
   [
     "Self Optimization",
+    "Physical and Mental Wellness",
     "Bouldering / Sport Climbing",
-    "Picking up heavy things and putting them back down",
-    "Sci Fi books & movies"
+    "Science Fiction",
+    "Houseplants",
+    "Fashion",
+    "Nature",
+    "Self-Discovery"
   ]
 ```
-
 <div>
   <h2>Currently Learning</h2>
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
@@ -53,18 +57,6 @@ personal-passions:
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h2>Github Stats</h2>
 <a href="https://github.com/JCPenne/github-readme-stats#gh-dark-mode-only">
