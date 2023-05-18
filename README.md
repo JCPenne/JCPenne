@@ -1,6 +1,7 @@
 <header>
   <img align="center" src="./Header.png"/>
 </header>
+<img href="https://media.giphy.com/media/H3vCVwvLVXgFW/giphy.gif"/>
 
 ```yaml
 location: Toronto
