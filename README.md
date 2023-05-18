@@ -1,7 +1,7 @@
 <header>
   <img align="center" src="./Header.png"/>
 </header>
-<img href="https://media.giphy.com/media/H3vCVwvLVXgFW/giphy.gif"/>
+![Text](https://github.com/JCPenne/JCPenne/blob/main/Leon.gif)
 
 ```yaml
 location: Toronto
