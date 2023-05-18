@@ -2,11 +2,13 @@
   <img align="center" src="./Header.png"/>
 </header>
 
-## Find out more about me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackcpalmer)
+[![LinkedIn](https://img.shields.io/badge/resume-000000.svg?style=for-the-badge&logoColor=white?)](https://JCPenne.github.io/Jack_Palmer_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white?)](https://linkedin.com/in/jackcpalmer)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCPenne)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/JCPenne/)
+
+## Find out more about me 
+<img src="https://github.com/JCPenne/JCPenne/blob/main/Leon.gif" width="200" align="center"/>
 
 ```yaml
 location: Toronto
@@ -31,9 +33,6 @@ personal-passions:
     "Self-Discovery"
   ]
 ```
-<div align="center">
-<img src="https://github.com/JCPenne/JCPenne/blob/main/Leon.gif"/>
-</div>
 <div>
   <h2>Currently Learning</h2>
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
