@@ -2,6 +2,12 @@
   <img align="center" src="./Header.png"/>
 </header>
 
+## Find out more about me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jackcpalmer)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCPenne)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/JCPenne/)
+
 ```yaml
 location: Toronto
 professional-passions:
