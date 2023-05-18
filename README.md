@@ -68,7 +68,7 @@ personal-passions:
 <a href="https://github.com/JCpenne/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=f7f9ff&text_color=f7f9ff&border_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" height=200 />
   <a href="https://github.com/JCPenne/whoofer#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JCPenne&repo=whoofer&custom_title=Whoofer&title_color=f7f9f&text_color=f7f9ff&icon_color=265cff&border_color=265cff&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JCPenne&repo=whoofer&title_color=f7f9ff&text_color=f7f9ff&icon_color=265cff&border_color=265cff&theme=transparent" />
 </a>  
   
 </a>
@@ -80,5 +80,5 @@ personal-passions:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCPenne&layout=compact&title_color=0b2471&border_color=265cff&text_color=265cff&custom_title=Languages%20I%20Love&theme=transparent" height=200/>
 </a>
 <a href="https://github.com/JCPenne/whoofer#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JCPenne&repo=whoofer&custom_title=Whoofer&title_color=0b2471&text_color=265cff&icon_color=0b2471&border_color=265cff&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JCPenne&repo=whoofer&title_color=0b2471&text_color=265cff&icon_color=0b2471&border_color=265cff&theme=transparent" />
 </a>  
