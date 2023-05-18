@@ -23,7 +23,7 @@ personal-passions:
 
 <div>
   <h2>Currently Learning</h2>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
 </div>
 <div>
   <h2>Core Tools</h2>
