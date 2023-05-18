@@ -1,7 +1,6 @@
 <header>
   <img align="center" src="./Header.png"/>
 </header>
-![Text](https://github.com/JCPenne/JCPenne/blob/main/Leon.gif)
 
 ```yaml
 location: Toronto
@@ -26,6 +25,9 @@ personal-passions:
     "Self-Discovery"
   ]
 ```
+<div align="center">
+<img src="https://github.com/JCPenne/JCPenne/blob/main/Leon.gif"/>
+</div>
 <div>
   <h2>Currently Learning</h2>
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
