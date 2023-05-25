@@ -2,6 +2,7 @@
   <img align="center" src="./Header.png"/>
 </header>
 
+<a href="https://linkedin.com/in/jackcpalmer" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white?)</a>
 [![LinkedIn](https://img.shields.io/badge/resume-000000.svg?style=for-the-badge&logoColor=white?)](https://JCPenne.github.io/Jack_Palmer_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?style=for-the-badge&logo=linkedin&logoColor=white?)](https://linkedin.com/in/jackcpalmer)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCPenne)
